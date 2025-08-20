@@ -1,0 +1,7 @@
+Car_Name,Year,Selling_Price,Present_Price,Driven_kms,Fuel_Type,Selling_type,Transmission,Owner,Brand,Horsepower,Goodwill
+BMW X5,2017,35.0,75.0,30000,Petrol,Dealer,Automatic,0,BMW,300,10
+Mercedes C-Class,2018,30.0,65.0,25000,Diesel,Dealer,Automatic,0,Mercedes,280,10
+Toyota Innova,2016,12.0,18.0,50000,Diesel,Individual,Manual,0,Toyota,150,9
+Honda City,2015,7.0,12.0,40000,Petrol,Dealer,Manual,0,Honda,130,8
+Tata Nexon,2019,9.0,14.0,20000,Petrol,Dealer,Manual,0,Tata,120,6
+Hyundai i20,2020,6.5,10.0,15000,Petrol,Dealer,Manual,0,Hyundai,110,7
